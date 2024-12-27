@@ -1,0 +1,9 @@
+name: Attendance
+version: '1.0-SNAPSHOT'
+main: org.hwabeag.attendance.Attendance
+api-version: '1.20'
+
+commands:
+  출석:
+    description: 출석을 이용합니다.
+    usage: /출석
